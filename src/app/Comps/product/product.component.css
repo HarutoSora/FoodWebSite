@@ -1,0 +1,69 @@
+.picture_container  {
+    border-top-left-radius: 20px; 
+    border-bottom-left-radius: 20px; 
+}
+
+.Sub_container  {
+    border-top-right-radius: 20px; 
+    border-bottom-right-radius: 20px; 
+}
+
+.Description_container {
+    border-top-right-radius: 20px;  
+}
+
+.price_container{
+    border-bottom-right-radius: 20px; 
+}
+
+
+.Main_Container{
+    width: 65vh;
+    height: 45vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+}
+
+.Sub_container{
+    width: 40%;
+    height: 100%;
+}
+
+.Description_container {
+    background-color: red;
+    width: 100%;
+    height: 65%;
+}
+
+.price_container {
+    background-color: blue;
+    width: 100%;
+    height: 35%;
+}
+
+.picture_container{
+    background-color: green;
+    width: 60%;
+    height: 100%;
+    overflow: hidden; 
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+img {
+    position: absolute;
+    object-fit: cover; 
+    width: 100%;
+    height: 100%;
+  }
+
+
+  h1 , p {
+    margin: 0; /* Reset margin to remove default space around h1 */
+    padding: 0; /* Reset padding to remove default space around h1 */
+    padding-top: 20px;
+    padding-left: 10px;
+  }

@@ -1,0 +1,22 @@
+
+{
+  "Products":[
+    {
+    "imglink": "https://i.ibb.co/fFqZ9Nj/istockphoto-496359598-612x612.jpg",
+    "price": 19.99,
+    "name": "Potato",
+    "description": "In Italy, potatoes are stars in dishes, From creamy gnocchi to crispy pizza wishes.Since the 16th century, they've played their part, In rustic kitchens and haute cuisine's art."
+  },
+  {
+    "imglink": "https://i.ibb.co/NySn2c7/Screenshot-2024-01-01-003818.png",
+    "price": 29.99,
+    "name": "Cucamber",
+    "description": "In Italy, cucumbers lend their crisp bite,      To salads, plates, a refreshing delight.From ancient times, they've graced Italian fare, Adding coolness to dishes with flair.      "
+  },
+  {
+    "imglink": "https://i.ibb.co/nkCFd0M/tomato-msho8nn70rabrrji.jpg",
+    "price": 39.99,
+    "name": "Tomato",
+    "description": "In Italy, tomatoes shine bright and red,In sauces, salads, atop pizzas spread.From centuries past to modern days,They're staples in Italy's flavorful maze."
+  }]
+}
